@@ -1,13 +1,13 @@
 # Site settings
 title: Taylor Turner
-description: A trusted advisor in technology, machine learning, and finance
+description: Consultant
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Taylor Turner
 user_description: Taylor bonds cutting edge technology and a niche financial knowledge base to catalyze value-add change for everyone - from small businesses to Fortune 100 enterprises. Taylor's passion is improving the management of private and institutional capital. As the world of technology and business moves at a faster pace, having one team member that knows the intricacies of both technology and capital management is an indispensable asset for the firm of the future. Teams need to work smarter by utilizing technology to build data-based heuristics for more effective decision making. 
-# user_title: Consultant
+user_title: Trusted advisor in technology, machine learning, and finance
 email: taylorfturner@gmail.com
 twitter_username: taylorfturner
 github_username:  taylorfturner
