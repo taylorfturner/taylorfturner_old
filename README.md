@@ -1,6 +1,6 @@
 ## About ME
 
-- Principal ML Engineer 
+- Principal ML Engineer with over half a decade of niche real-world experience
 - L3 Candidate in the CFA Program 
-- Ex sentiment analysis hedge fund analyst
-- Trade my own PA using programs and systems that I have built through thousands of hours of research and study
+- Ex hedge fund analyst specializing in sentiment analysis
+- Trade my own PA using systems
