@@ -1,6 +1,6 @@
 ## About ME
 
-- Principal ML Engineer with over half a decade of niche real-world experience
-- L3 Candidate in the CFA Program 
-- Ex hedge fund analyst specializing in sentiment analysis
-- Trade my own PA using quantitative systems
+- :office: Principal ML Engineer with over half a decade of niche real-world experience
+- :book: L3 Candidate in the CFA Program 
+- :moneybag: Previous hedge fund analyst specializing in designing trading systems and sentiment analysis models
+- :chart_with_upwards_trend: I trade my own PA using quantitative systems
